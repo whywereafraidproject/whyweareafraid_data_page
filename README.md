@@ -7,4 +7,4 @@ __Possible Formats__
 * Use a Github Page to process and store the tag data.
 * Use a Heroku account to regularly pull data from tumblr tags, and give to a Github page for processing (Any input on if/how this is viable would be lovely). 
 
-Thank you [adampowers](https://github.com/adampowers), and all involved so far for the direction, input, work, and many of the words above. 
+Thank you [adampowers](https://github.com/adampowers), and all involved so far for the direction, input, work, and many of the words above. Contact [Schmitty](https://github.com/sumnonpuella) with requests/questions for this repository. 
